@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iman-feisali
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C and C#
-- 💞️ I’m looking to collaborate in a developer team as a junior web developer 
+- 👀 I’m a Quality Assurance Engineer at Sogeti 
+- 🌱 Coding enthusiast
+- 💞️ Dedicated to delivering top-notch software
 - 📫 How to reach me? Via Email: Iman.feisali@gmail.com
 
 <!---
